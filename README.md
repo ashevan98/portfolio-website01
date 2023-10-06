@@ -7,3 +7,5 @@ Services → https://ashevan98.github.io/portfolio-website01.github.io/services.
 More → https://ashevan98.github.io/portfolio-website01.github.io/more.html <br>
 Contact Me → https://ashevan98.github.io/portfolio-website01.github.io/contact.html 
 
+
+(It's just a front-end work, no back-end & databases are added to the project)
